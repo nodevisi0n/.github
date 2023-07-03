@@ -49,7 +49,7 @@ All NodeVision projects are released under the [LICENSE NAME] license. Please re
 
 Reach out to us for any inquiries or collaboration opportunities:
 
-- Email: [contact@email.agency]
-- Website: [https://nodevision.agency]
+- Email: [contact@nodevision.agency](mailto:contact@nodevision.agency)
+- Website: [nodevision.agency](https://www.nodevision.agency)
 
 Thank you for your interest in NodeVision! We appreciate your support and look forward to building amazing projects together.
