@@ -1,7 +1,8 @@
 <div align="center">
-<h1>nodevision</h1>
-<img src=".assets/logo.png" alt="nodevision logo" />
+  
+<img width="100px" src="https://github.com/nodevision-lab/.github/blob/main/assets/logo.svg" alt="nodevision logo" />
 <br />
+<h1>nodevision</h1>
 <p align="center">Welcome to NodeVision! We are a design and development agency dedicated to creating modern web frameworks and mobile development solutions. Our open-source projects on GitHub aim to empower developers and provide innovative tools for building cutting-edge applications.
 </p>
 </div>
