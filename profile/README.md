@@ -3,8 +3,14 @@
 <a href="https://github.com/nodevision-lab">
 <img width="100px" src="https://github.com/nodevision-lab/.github/blob/main/assets/logo.svg" alt="nodevision logo" />
 </a>
+
 <br />
-<h1>nodevision</h1>
+
+<h1>
+  <a href="https://github.com/nodevision-lab">nodevision</a>
+</h1>
+
+
 <p align="center">Welcome to NodeVision! We are a design and development agency dedicated to creating modern web frameworks and mobile development solutions. Our open-source projects on GitHub aim to empower developers and provide innovative tools for building cutting-edge applications.
 </p>
 </div>
