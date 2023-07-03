@@ -1,8 +1,12 @@
-# NodeVision
+<div align="center">
+<h1>nodevision</h1>
+<img src=".assets/logo.png" alt="nodevision logo" />
+<br />
+<p align="center">Welcome to NodeVision! We are a design and development agency dedicated to creating modern web frameworks and mobile development solutions. Our open-source projects on GitHub aim to empower developers and provide innovative tools for building cutting-edge applications.
+</p>
+</div>
 
-![NodeVision Logo](path/to/logo.png)
-
-Welcome to NodeVision! We are a design and development agency dedicated to creating modern web frameworks and mobile development solutions. Our open-source projects on GitHub aim to empower developers and provide innovative tools for building cutting-edge applications.
+<br />
 
 ## 🚀 Featured Projects
 
