@@ -39,8 +39,8 @@ Please ensure your contributions align with our coding standards and follow best
 
 Join the NodeVision community to connect with other developers and receive support:
 
-- Discord: [Link to Discord server]
-- Mailing List: [Link to subscribe]
+- Discord: [discord.gg/nodevision](https://discord.gg/Vqdq3YAcF)
+- Github Discussion: [@nodevision-lab/discussions](https://github.com/orgs/nodevision-lab/discussions)
 
 If you have any questions, or feedback, or need assistance, don't hesitate to reach out. We're here to help!
 
